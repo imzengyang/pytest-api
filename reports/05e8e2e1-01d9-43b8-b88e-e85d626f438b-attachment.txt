@@ -1,0 +1,3 @@
+[32mINFO    [0m cnodeApi:main.py:17 开始进行测试：测试编号为2,http://39.107.96.138:3000/api/v1/topics,get,{"limit": 1, "page": 1},None,None
+[32mINFO    [0m cnodeApi:client.py:11 开始请求- 请求路径: http://39.107.96.138:3000/api/v1/topics,请求方法: get,请求参数: {"limit": 1, "page": 1}, 其它参数: {}
+[32mINFO    [0m cnodeApi:main.py:24 测试通过

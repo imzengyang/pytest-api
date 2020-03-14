@@ -1,0 +1,4 @@
+[32mINFO    [0m cnodeApi:main.py:17 开始进行测试：测试编号为1,http://39.107.96.138:3000/api/v1/topics,get,{"limit": 1, "page": 1},None,None
+[32mINFO    [0m cnodeApi:client.py:11 开始请求- 请求路径: http://39.107.96.138:3000/api/v1/topics,请求方法: get,请求参数: {'limit': 1, 'page': 1}, 其它参数: {}
+[32mINFO    [0m cnodeApi:main.py:20 响应结果为： {"success": true, "data": [{"id": "5e6cdc9d5415320684b23872", "author_id": "5d67abbb692231084ca27cc8", "tab": "share", "content": "<div class=\"markdown-text\"><p>haohoahahoa</p>\n</div>", "title": "wolailelallalalallalllalllal", "last_reply_at": "2020-03-14T13:31:09.356Z", "good": false, "top": false, "reply_count": 0, "visit_count": 0, "create_at": "2020-03-14T13:31:09.356Z", "author": {"loginname": "user0", "avatar_url": "//gravatar.com/avatar/c51213cf2f69a3fb140413a58c95ee8e?size=48"}}]}
+[32mINFO    [0m cnodeApi:main.py:25 测试通过

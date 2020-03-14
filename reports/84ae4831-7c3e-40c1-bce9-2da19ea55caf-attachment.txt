@@ -1,0 +1,2 @@
+[32mINFO    [0m cnodeApi:main.py:10 开始进行测试：测试编号为1
+[32mINFO    [0m cnodeApi:main.py:17 测试通过

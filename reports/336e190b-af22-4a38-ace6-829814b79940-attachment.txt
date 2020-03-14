@@ -1,0 +1,4 @@
+[32mINFO    [0m cnodeApi:main.py:10 开始进行测试：测试编号为3
+[31m[1mERROR   [0m cnodeApi:main.py:14 测试失败: 失败信息如下: assert '4' == '5'
+  - 4
+  + 5
